@@ -1,18 +1,18 @@
 /* styles go here */
-.form-field {
+.form__label {
   display: block;
   margin-bottom: 10px;
 }
 
-.form-field:last-child {
+.form__label:last-child {
   margin-bottom: 0;
 }
 
-.fieldset {
+.form__field {
   margin-bottom: 20px;
 }
 
-.fieldset:last-child {
+.form__field:last-child {
   margin-bottom: 20px;
 }
 /* styles go here */
